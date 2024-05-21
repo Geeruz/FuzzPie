@@ -1,6 +1,6 @@
 # FuzzPie
 If you want to watch a movie tailored to your specific emotional, mental or physical needs, FuzzPie is the way.
-FuzzPie is a website that will have the following features
+FuzzPie is an Open sourced website that will have the following features
 
 Core Features:
 1.User input parsing to extract emotions and keywords.
